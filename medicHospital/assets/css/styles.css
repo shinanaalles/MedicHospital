@@ -1,0 +1,68 @@
+@media (max-width:767px) {
+  ul#nav-min.nav.navbar-nav.navbar-right{
+    background-color:rgba(242,239,239,0.98);
+  }
+}
+
+div#about-div{
+  height:100px;
+  background-color:#eee;
+}
+
+div#about-div-fil{
+  background-color:rgba(238,238,238,0.90);
+}
+
+i#icon-about.glyphicon.glyphicon-user{
+  font-size:50px;
+}
+
+i#icob-about.glyphicon.glyphicon-star{
+  font-size:70px;
+}
+
+i#icob-about.glyphicon.glyphicon-user{
+  font-size:60px;
+  color:#000000;
+}
+
+div.col-md-3.back-te{
+  background-color:rgba(214,213,213,0.1);
+  box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+img.image-about{
+  border-radius:450px;
+}
+
+div#easy-book.col-md-3.back-te{
+  padding-bottom:40px;
+}
+
+div#services-wew.col-md-3.back-te{
+  padding-bottom:40px;
+}
+
+div#parallax2{
+  height:240px;
+  text-align:center;
+  background-position:center;
+  background-image:url(../../assets/img/1.jpg);
+  background-size:cover;
+  background-attachment:fixed;
+  background-repeat:no-repeat;
+}
+
+div.jumbotron.jumbo2{
+  height:100%;
+  background-color:rgba(10,10,10,0.9);
+}
+
+img.services-icon{
+  margin-left:auto;
+  margin-right:auto;
+}
+
+div.thumbnail{
+}
+
